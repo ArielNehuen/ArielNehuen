@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel Nehuen V.</h1>
-<h3 align="center">I also like the Digital Marketing Area and Community Manager</h3>
+<h3 align="center">I also like the Digital Marketing area and Community Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielnehuen&label=Profile%20views&color=0e75b6&style=flat" alt="arielnehuen" /> </p>
 
